@@ -1,5 +1,5 @@
 ---
-status: review
+status: done
 title: Add a greeting
 tags: [scratch]
 ---
