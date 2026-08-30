@@ -1,5 +1,5 @@
 ---
-status: in-progress
+status: review
 title: Add a greeting
 tags: [scratch]
 ---
