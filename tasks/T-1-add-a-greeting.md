@@ -1,5 +1,5 @@
 ---
-status: in-progress
+status: done
 title: Add a greeting
 tags: [scratch]
 ---
