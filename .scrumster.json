@@ -1,0 +1,8 @@
+{
+  "columns": [
+    { "id": "ready", "label": "Ready" },
+    { "id": "in-progress", "label": "In progress" },
+    { "id": "review", "label": "In review", "review": true },
+    { "id": "done", "label": "Done", "complete": true }
+  ]
+}
