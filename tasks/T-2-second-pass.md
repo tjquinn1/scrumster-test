@@ -1,5 +1,5 @@
 ---
-status: review
+status: done
 title: Second pass
 tags: [scratch]
 ---
