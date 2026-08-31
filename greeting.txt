@@ -1,1 +1,2 @@
 Hello from scrumster!
+Second pass: merged on the first click.
